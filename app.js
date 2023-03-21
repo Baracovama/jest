@@ -26,3 +26,4 @@ const fromYenToPound = function(valueInYen){
 
 
 module.exports = {  fromEuroToDollar, fromDollarToYen, fromYenToPound };
+
